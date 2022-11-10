@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Main1/1.0.0": {
+        "dependencies": {
+          "Negocio": "1.0.0"
+        },
+        "runtime": {
+          "Main1.dll": {}
+        }
+      },
+      "Datos/1.0.0": {
+        "runtime": {
+          "Datos.dll": {}
+        }
+      },
+      "Negocio/1.0.0": {
+        "dependencies": {
+          "Datos": "1.0.0"
+        },
+        "runtime": {
+          "Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

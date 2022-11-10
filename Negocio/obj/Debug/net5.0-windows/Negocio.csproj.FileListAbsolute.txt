@@ -1,0 +1,15 @@
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\bin\Debug\net5.0-windows\Negocio.deps.json
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\bin\Debug\net5.0-windows\Negocio.dll
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\bin\Debug\net5.0-windows\Negocio.pdb
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\bin\Debug\net5.0-windows\Datos.dll
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\bin\Debug\net5.0-windows\Datos.pdb
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.csproj.AssemblyReference.cache
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.AssemblyInfoInputs.cache
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.AssemblyInfo.cs
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.csproj.CopyComplete
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.dll
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\refint\Negocio.dll
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\Negocio.pdb
+C:\Users\esteb\source\repos\EjeercicioCert1\Negocio\obj\Debug\net5.0-windows\ref\Negocio.dll
